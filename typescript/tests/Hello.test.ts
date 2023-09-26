@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest';
-import Hello from './Hello';
+import Hello from '../src/Hello';
 
 test('Says hello!', () => {
   const hello = new Hello();

@@ -1,1 +1,1 @@
-# typescript-kata-boilerplate
+# Kata boilerplates
